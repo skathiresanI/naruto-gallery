@@ -3,7 +3,6 @@
 A simple and responsive Naruto character image gallery built using HTML, CSS, and Bootstrap 5.
 
 ## 🚀 Live Demo
-## 🚀 Live Demo
 
 [View Naruto Gallery](https://skathiresani.github.io/naruto-gallery/)
 
